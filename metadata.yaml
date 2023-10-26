@@ -1,0 +1,24 @@
+_repo: Kuin-unikuva_71903
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orzeszko, Eliza
+    gutenberg_agent_id: '56453'
+    url: http://www.gutenberg.org/2009/agents/56453
+description: ''
+gutenberg_issued: '2023-10-19'
+identifiers:
+  gutenberg: '71903'
+language: fi
+pgterms:marc905: 20230126045104orzeszko
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aPori :$bGust. Romelius, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kuin unikuva...
+url: http://www.gutenberg.org/ebooks/71903
